@@ -3,7 +3,7 @@
 Gestione menu spesa alimentare è una Web Application derivata da [Otter Guardian](https://github.com/RiccardoRiggi/otter-guardian-fe) che consente di registrare le date di scadenze dei cibi della nostra dispensa. 
 
 
-![Home](https://raw.githubusercontent.com/RiccardoRiggi/gestione-menu-spesa-alimentare-fe/main/screenshots/homepage.png)
+![Home](https://raw.githubusercontent.com/RiccardoRiggi/gestione-menu-spesa-alimentare-fe/main/screenshots/listaIngredienti.png)
 
 Di seguito è presente la documentazione della sola componente di frontend per le funzionalità specifiche. Sul repository di [Otter Guardian](https://github.com/RiccardoRiggi/otter-guardian-fe) è disponibile la documentazione della parte derivata. [Qui](https://github.com/RiccardoRiggi/menu-spesa-alimentare-be) è disponibile la componente di backend. 
 
