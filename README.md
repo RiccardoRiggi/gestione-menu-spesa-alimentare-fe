@@ -5,7 +5,7 @@ Gestione menu spesa alimentare è una Web Application derivata da [Otter Guardia
 
 ![Home](https://raw.githubusercontent.com/RiccardoRiggi/gestione-menu-spesa-alimentare-fe/main/screenshots/listaIngredienti.png)
 
-Di seguito è presente la documentazione della sola componente di frontend per le funzionalità specifiche. Sul repository di [Otter Guardian](https://github.com/RiccardoRiggi/otter-guardian-fe) è disponibile la documentazione della parte derivata. [Qui](https://github.com/RiccardoRiggi/menu-spesa-alimentare-be) è disponibile la componente di backend. 
+Di seguito è presente la documentazione della sola componente di frontend per le funzionalità specifiche. Sul repository di [Otter Guardian](https://github.com/RiccardoRiggi/otter-guardian-fe) è disponibile la documentazione della parte derivata. [Qui](https://github.com/RiccardoRiggi/gestione-menu-spesa-alimentare-be) è disponibile la componente di backend. 
 
 Ho deciso di pubblicare questo codice solo ora, quindi la data del repository non riflette quando l'ho effettivamente scritto. Il progetto nasce all'interno di un gestionale più grande che uso tutti i giorni per provare a semplificarmi la vita!
 
